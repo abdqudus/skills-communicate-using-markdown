@@ -10,3 +10,10 @@ Each heading is created by adding a number of hash symbols depending on the type
 ``` javascript
 console.log('I am learning communicationwith markdown in Github')
 ```
+## All In Africa Topics
+- [x] Getting Started
+- [x] Open Source 101
+- [x] Introduction to Github
+- [x] Communicate with Markdown.
+- [ ] Github pages.
+- [ ] Contributing to open source 
