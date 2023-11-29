@@ -6,3 +6,7 @@
 ###### This is a h6 heading.
 Each heading is created by adding a number of hash symbols depending on the type of heading, followed by space and then the content itself.
 ![a white flower in a glass vase](https://source.unsplash.com/2bmKWvCDkxY)
+
+``` javascript
+console.log('I am learning communicationwith markdown in Github')
+```
